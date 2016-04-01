@@ -12,10 +12,14 @@
 ##### Format the USB device
 * Open Disk Utility
 * Select the USB device
-* Select the Erase tab
-  * Format: Mac OS Extended (Journaled)
+* Select the Partition tab
+  * Partition Layout: 1 Partition
   * Name: OSX10
-* Click the Erase button
+  * Format: Mac OS Extended (Journaled)
+  * Size: 15.52 GB
+* Click the Options button
+  * GUID Partition Table 
+* Click the Apply button
 
 ##### [Download the OS X Installer from the App Store](https://support.apple.com/en-us/HT202796)
 * From the Apple menu, choose App Store. 
