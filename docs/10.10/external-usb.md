@@ -10,7 +10,12 @@
 * 16GB USB device
 
 ##### Format the USB device
-
+* Open Disk Utility
+* Select the USB device
+* Select the Erase tab
+  * Format: Mac OS Extended (Journaled)
+  * Name: OSX10
+* Click the Erase button
 
 ##### Download the OS X Installer from the App Store
 * From the Apple menu, choose App Store. 
