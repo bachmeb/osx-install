@@ -26,7 +26,7 @@
 * Wait for the 5.72 GB installer to download
 
 ##### [Run the Install OS X app](https://support.apple.com/en-us/HT202796)
-* *[This installer automatically opens after you download it. If you closed the installer app and need to re-open it, you can find it in the Applications folder.]()*
+* This installer automatically opens after you download it. If you closed the installer app and need to re-open it, you can find it in the Applications folder.
 
 ##### [Follow the onscreen instructions in the Installer window to complete the installation.](https://support.apple.com/en-us/HT202796)
 * When you're asked to select a drive for installation, click the button "Show All Disks." 
