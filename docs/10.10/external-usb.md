@@ -18,10 +18,10 @@
   * [The Mac App Store normally displays OS X as being "Installed" in the purchases pane. This prevents you from downloading it when your Mac already has the same version of OS X installed. When you hold the Option key as you click the Purchases tab, the button to the right of the item you want to download should change to say "Install".](https://support.apple.com/en-us/HT202796)
 * Select OS X Yosemite
 * Click Download
-* Wait....
+* Wait for the 5.72 GB installer to download
 
 ##### Run the Install OS X app
-*[This installer automatically opens after you download it. If you closed the installer app and need to re-open it, you can find it in the Applications folder.]()*
+* *[This installer automatically opens after you download it. If you closed the installer app and need to re-open it, you can find it in the Applications folder.]()*
 
 ##### Follow the onscreen instructions in the Installer window to complete the installation. 
 * When you're asked to select a drive for installation, click the button "Show All Disks." Select your external drive, then click Continue.
