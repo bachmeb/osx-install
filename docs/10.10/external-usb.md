@@ -24,6 +24,12 @@
 * *[This installer automatically opens after you download it. If you closed the installer app and need to re-open it, you can find it in the Applications folder.]()*
 
 ##### Follow the onscreen instructions in the Installer window to complete the installation. 
-* When you're asked to select a drive for installation, click the button "Show All Disks." Select your external drive, then click Continue.
-* Your Mac might restart one or more times during installation. After installation is finished, your Mac automatically starts up from the external drive.
+* When you're asked to select a drive for installation, click the button "Show All Disks." 
+* Select your external drive, then click Continue.
+* Your Mac might restart one or more times during installation. 
+
+##### Run OSX from the external device
+* After installation is finished, your Mac automatically starts up from the external drive.
+
+##### Run OSX from the internal device
 * When you're done using your external disk, select a startup disk from System Preferences to have your Mac to start up from its built-in startup disk or another drive.
